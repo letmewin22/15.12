@@ -1,0 +1,18 @@
+@import './helpers/all.scss';
+
+body {
+  div {
+    height: vw(300);
+  }
+}
+
+img {
+  width: 1000px;
+}
+
+.h1 {
+  font-family: 'AvenirNextCyr';
+  font-size: vw(200);
+  font-weight: 400;
+  color: green;
+}
